@@ -68,3 +68,10 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+# Now about the functionality or how to use <br>
+1)There is a plus sign which when cliick an alert will open where you can add event on that particular date <br>
+2)todays date will be highlighted <br>
+3)there were two buttons previous and next for toggle between different month <br>
+4)There is an option or button to add a resource which can be used to add a new resource <br>
